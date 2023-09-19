@@ -197,7 +197,7 @@
 	</div>
 
 	<div id="footer">
-		<h2 class="footer__title">Copyright © 2022 Đại học Công nghệ Giao thông vận tải</h2>
+		<h2 class="footer__title">Copyright © 2023 Đại học Công nghệ Giao thông vận tải</h2>
 		
 
 		</div>

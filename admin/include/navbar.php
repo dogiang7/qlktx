@@ -17,7 +17,7 @@
               Quản Lý
             </div>
              <!-- Nav Item - Pages Collapse Menu -->
-           <!-- <li class="nav-item">
+            <li class="nav-item">
               <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#sanpham" aria-expanded="true" aria-controls="sanpham">
                 <i class="fas fa-fw fa-cog"></i>
                 <span>Quản Lý Đăng Ký Phòng</span> 
@@ -98,7 +98,7 @@
                 </div>
               </div>
             </li>
-            </li> -->
+            </li> 
              <li class="nav-item">
               <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#nv" aria-expanded="true" aria-controls="nv">
                   <i class="fas fa-poll-h"></i>
